@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "description": "Lorem ipsum bannerzz",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "description": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Make a new Vue site",
+      "description": "Build a smashing site with Vue 3!",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Learn Django Rest",
+      "description": "Learn DRF by building projects",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
